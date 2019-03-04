@@ -4,15 +4,13 @@
 
 
 
-![img](C:\Users\ZHAOCH~1\AppData\Local\Temp\企业微信截图_15516828412105.png)
+![img](..\img\idea图片1.png)
 
 
 
 原因是点击了这个按钮
 
-
-
-![img](https://images2018.cnblogs.com/blog/1311031/201808/1311031-20180806113041261-55975717.png)
+![img](..\img\idea图片2.png)
 
 
 
